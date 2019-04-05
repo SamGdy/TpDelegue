@@ -15,4 +15,13 @@ On crée le delegate :
 
 ![Capture.png](https://github.com/SamGdy/TpDelegue/blob/master/Images/ClasseCalculatriceDefDelegue.PNG)
 
+Ce delegue va nous permettre d'encapsuler nos methodes on peut alors ajouter :
+- addition
+- soustraction 
+au delegue avec la methode Choixoperations
 
+![Capture.png](https://github.com/SamGdy/TpDelegue/blob/master/Images/AjoutDuDelegue.PNG)
+
+La methode Calculer va parcourrir les methodes encapsulé dans le delegate et les appliquer.
+
+![Capture.png](https://github.com/SamGdy/TpDelegue/blob/master/Images/CalculMethode.PNG)
